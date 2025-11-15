@@ -17,7 +17,7 @@ A lightweight Photoshop plugin used to record drawing processes.
 
 ## Installation
 
-1. Download the plugin zip file [F_Record.zip]([https://github.com/Shakamulia/F_Record---English-Ver/archive/refs/heads/main.zip]), extract it, and open the folder.
+1. Download the plugin zip file [F_Record.zip](https://github.com/Shakamulia/F_Record---English-Ver/archive/refs/heads/main.zip), extract it, and open the folder.
 
 2. Inside, you will find two folders: `com.f_know.f_record.cep` and `com.f_know.f_record.generator`. Copy them into the corresponding locations in your main Photoshop directory.  
    The main Photoshop directory typically looks like `D:\Adobe Photoshop 2021`.  
