@@ -1,30 +1,30 @@
 # F_Record---English-Ver.
 A lightweight Photoshop plugin for recording the drawing process - English Version
 
-# Introduction to F_Record
+# Introduction to F_Record 
 
 A lightweight Photoshop plugin used to record drawing processes.
 
-https://github.com/user-attachments/assets/0221cee9-ac70-48d1-b85a-b85667813b90
+[Demo Video]
 
 **Plugin Principle**: It uses Photoshop's Generator interface. Whenever there is a change on the canvas, it captures a snapshot. In the end, these snapshots are combined into a single video.
 
-**Current Plugin Version**: 3.0
+**Current Plugin Version**: 2.0
 
 **Supported Operating Systems**: Windows 
 
-**Supported Photoshop Versions**: Photoshop 2022 ~ 2025
+**Supported Photoshop Versions**: Photoshop 2018 ~ 2021
 
 ## Installation
 
 1. Download the plugin zip file [F_Record.zip](https://github.com/F-know/F_Record/releases/download/3.0/F_Record.zip), extract it, and open the folder.
 
 2. Inside, you will find two folders: `com.f_know.f_record.cep` and `com.f_know.f_record.generator`. Copy them into the corresponding locations in your main Photoshop directory.  
-   The main Photoshop directory typically looks like `D:\Adobe Photoshop 2022`.  
+   The main Photoshop directory typically looks like `D:\Adobe Photoshop 2021`.  
    You can tell if it’s the correct directory if you see the Photoshop executable `Photoshop.exe` (not a shortcut).
 
-   - Place the `com.f_know.f_record.cep` folder in the path similar to `D:\Adobe Photoshop 2022\Required\CEP\extensions`.
-   - Place the `com.f_know.f_record.generator` folder in the path similar to `D:\Adobe Photoshop 2022\Plug-ins\Generator`.
+   - Place the `F_Record-CEP` folder in the path similar to `D:Adobe Photoshop 2021\Required\CEP\extensions`.
+   - Place the `F_Record-Generator` folder in the path similar to `D:Adobe Photoshop 2021\Plug-ins\Generator`.
 
    Note: If your Photoshop installation is missing a certain subfolder (like `Generator` under `Plug-ins`), you may need to create it manually.
 
